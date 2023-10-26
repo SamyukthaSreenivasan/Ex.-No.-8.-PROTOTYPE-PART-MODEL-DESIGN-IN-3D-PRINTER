@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/SamyukthaSreenivasan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119475703/843bec27-5dd1-4850-9f45-3f3e3a215a8f)
+
+
+### Name: Samyuktha S
+### Register Number: 212222240089
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
