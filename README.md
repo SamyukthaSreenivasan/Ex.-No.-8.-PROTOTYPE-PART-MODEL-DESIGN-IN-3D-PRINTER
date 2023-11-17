@@ -47,8 +47,9 @@
 
 ## Output:
 
-![image](https://github.com/SamyukthaSreenivasan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119475703/843bec27-5dd1-4850-9f45-3f3e3a215a8f)
+![WhatsApp Image 2023-11-17 at 11 53 03_1fdf2b38](https://github.com/SamyukthaSreenivasan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119475703/a208c24f-663a-4f5f-a5f5-b5a825733b7f)
 
+![WhatsApp Image 2023-11-17 at 11 53 04_3078f12d](https://github.com/SamyukthaSreenivasan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119475703/7247b76d-d590-48c9-9df5-d4ab1190824a)
 
 ### Name: Samyuktha S
 ### Register Number: 212222240089
